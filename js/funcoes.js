@@ -11,3 +11,18 @@ function trocaFonte()  {
 function trocaFonte2()  {
 	document.getElementById("demo").style.fontSize="16px";
 }
+function trocaCor()  {
+	document.getElementById("demo").style.backgroundColor="blue";
+}
+function trocaCor2()  {
+	document.getElementById("demo").style.backgroundColor="white";
+}
+function trocaTexto()  {
+	document.getElementById("demo").style.fontFamily="calibri";
+}
+function ocultarElemento()  {
+	document.getElementById("demo").style.display="none";
+}
+function naoOcultar()  {
+	document.getElementById("demo").style.display="block";
+}
