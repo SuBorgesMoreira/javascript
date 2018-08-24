@@ -27,5 +27,6 @@ function naoOcultar()  {
 	document.getElementById("demo").style.display="block";
 }
 function calcular()  {
-	document.getElementById("demo").innerHTML= 20+15;
+	var total= parseFloat(document.getElementById("num1").value) + parseFloat(document.getElementById("num2").value);
+	window.alert(total);
 }
