@@ -26,3 +26,6 @@ function ocultarElemento()  {
 function naoOcultar()  {
 	document.getElementById("demo").style.display="block";
 }
+function calcular()  {
+	document.getElementById("demo").innerHTML= 20+15;
+}
