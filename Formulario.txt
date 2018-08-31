@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<tittle>Formulário</tittle>
+	</head>
+	<body>
+		<form action="">
+			Nome:<br><input type="text" name="nome" value=""><br>
+			Sobrenome:<br><input type="text" name="sobrenome" value=""><br><br>
+			<input type="submit" value="Enviar">
+		</form>
+	</body>
+</html>
+			
